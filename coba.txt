@@ -1,3 +1,2 @@
 Coba membuat file di repository github.
-Belajar mengedit file
-coba tambah file
+Coba mengedit file kemudian mengirim commit ke remote.
